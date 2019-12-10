@@ -1,0 +1,9 @@
+E:\C#\DosScreen\DosScreen\bin\Release\DosScreen.exe.config
+E:\C#\DosScreen\DosScreen\bin\Release\DosScreen.exe
+E:\C#\DosScreen\DosScreen\bin\Release\DosScreen.pdb
+E:\C#\DosScreen\DosScreen\obj\Release\DosScreen.Form1.resources
+E:\C#\DosScreen\DosScreen\obj\Release\DosScreen.Properties.Resources.resources
+E:\C#\DosScreen\DosScreen\obj\Release\DosScreen.csproj.GenerateResource.cache
+E:\C#\DosScreen\DosScreen\obj\Release\DosScreen.csproj.CoreCompileInputs.cache
+E:\C#\DosScreen\DosScreen\obj\Release\DosScreen.exe
+E:\C#\DosScreen\DosScreen\obj\Release\DosScreen.pdb

@@ -1,0 +1,20 @@
+D:\C# SourceCode\DosScreen\DosScreen\bin\Debug\DosScreen.exe.config
+D:\C# SourceCode\DosScreen\DosScreen\bin\Debug\DosScreen.exe
+D:\C# SourceCode\DosScreen\DosScreen\bin\Debug\DosScreen.pdb
+D:\C# SourceCode\DosScreen\DosScreen\obj\Debug\DosScreen.csprojAssemblyReference.cache
+D:\C# SourceCode\DosScreen\DosScreen\obj\Debug\DosScreen.Form1.resources
+D:\C# SourceCode\DosScreen\DosScreen\obj\Debug\DosScreen.Properties.Resources.resources
+D:\C# SourceCode\DosScreen\DosScreen\obj\Debug\DosScreen.csproj.GenerateResource.cache
+D:\C# SourceCode\DosScreen\DosScreen\obj\Debug\DosScreen.csproj.CoreCompileInputs.cache
+D:\C# SourceCode\DosScreen\DosScreen\obj\Debug\DosScreen.exe
+D:\C# SourceCode\DosScreen\DosScreen\obj\Debug\DosScreen.pdb
+E:\C#\DosScreen\DosScreen\bin\Debug\DosScreen.exe.config
+E:\C#\DosScreen\DosScreen\bin\Debug\DosScreen.exe
+E:\C#\DosScreen\DosScreen\bin\Debug\DosScreen.pdb
+E:\C#\DosScreen\DosScreen\obj\Debug\DosScreen.csprojAssemblyReference.cache
+E:\C#\DosScreen\DosScreen\obj\Debug\DosScreen.Form1.resources
+E:\C#\DosScreen\DosScreen\obj\Debug\DosScreen.Properties.Resources.resources
+E:\C#\DosScreen\DosScreen\obj\Debug\DosScreen.csproj.GenerateResource.cache
+E:\C#\DosScreen\DosScreen\obj\Debug\DosScreen.csproj.CoreCompileInputs.cache
+E:\C#\DosScreen\DosScreen\obj\Debug\DosScreen.exe
+E:\C#\DosScreen\DosScreen\obj\Debug\DosScreen.pdb
